@@ -1,7 +1,7 @@
 # Tensorflow_MachineLearning
  read csv file which stores accelerometer and gyroscope data from IMU sensor of  Arduino Nano 33 Sense, and do basic machine learning training and testing, with accuracy of 99%.
 
-csv file labels indicates postures of the Arudino board
+csv file labels indicates postures of the Arduino board
 <br />
 	1 -> supine
 	<br />
