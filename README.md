@@ -2,10 +2,15 @@
  read csv file which stores accelerometer and gyroscope data from IMU sensor of  Arduino Nano 33 Sense, and do basic machine learning training and testing, with accuracy of 99%.
 
 csv file labels indicates postures of the Arudino board
+<br />
 	1 -> supine
+	<br />
 	2 -> prone
+	<br />
 	3 -> side
+	<br />
 	4 -> sitting
+	<br />
 	5 -> unknown
 
 <br />
